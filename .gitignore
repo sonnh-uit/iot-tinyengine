@@ -2,3 +2,5 @@
 __pycache__/
 *.py[cod]
 *$py.class
+CMSIS_5-master.zip
+site-packages
