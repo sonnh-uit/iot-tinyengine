@@ -1,3 +1,8 @@
+# Acknowledgement
+We declare that we are using this software for academic purposes only and not for commercial purposes under [LICENSE](LICENSE). This is full version which include some step according to instruction by author.
+
+
+
 # TinyEngine
 
 This is the official implementation of TinyEngine, a memory-efficient and high-performance neural network library for Microcontrollers.

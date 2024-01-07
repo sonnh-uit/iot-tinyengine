@@ -4,3 +4,11 @@ __pycache__/
 *$py.class
 CMSIS_5-master.zip
 site-packages
+*.xml
+*.o
+*.bin
+*.elf
+*.list
+*.map
+*.lauch
+Debug
